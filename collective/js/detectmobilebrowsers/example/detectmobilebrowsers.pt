@@ -11,8 +11,8 @@
         <div tal:replace="structure provider:plone.abovecontenttitle" />
 
         <script type="text/javascript" charset="utf-8">
+        alert(isMobile);
         </script>
-
 
     </tal:main-macro>
     </div>
