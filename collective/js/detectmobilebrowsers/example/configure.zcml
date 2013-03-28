@@ -7,7 +7,6 @@
   <browser:page
     name="example.collective.js.detectmobilebrowsers"
     for="*"
-    class=".detectmobilebrowsers.Example"
     template="detectmobilebrowsers.pt"
     permission="zope2.View"
     />

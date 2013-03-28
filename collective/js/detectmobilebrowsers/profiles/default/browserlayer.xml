@@ -1,6 +1,0 @@
-<layers>
-<!-- uncomment to activate
-    <layer name="collective.js.detectmobilebrowsers"
-           interface="collective.js.detectmobilebrowsers.interfaces.ILayer" />
--->
-</layers>

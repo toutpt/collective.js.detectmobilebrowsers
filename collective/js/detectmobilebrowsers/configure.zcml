@@ -4,9 +4,9 @@
     xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
     i18n_domain="collective.js.detectmobilebrowsers">
 
-  <browser:resourceDirectory
-    name="collective.js.detectmobilebrowsers"
-    directory="resources"
+  <browser:resource
+    name="detectmobilebrowsers.js"
+    file="detectmobilebrowsers.js"
     />
 
   <include file="upgrades.zcml"/>
